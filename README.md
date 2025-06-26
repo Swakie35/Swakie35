@@ -30,7 +30,7 @@
 - **Methodologies:** Agile, A/B Testing, Object-Oriented Design, Deep Learning
 
 📈 **Projects:**
--You can find them under git profile
+- You can find them under git profile
 ---
 
 ✨ **Fun Fact:** Captain: Indian State-Level Cricket Team.
@@ -38,8 +38,8 @@
 ---
 
 🛠 **Certifications:**
--Java Programming and System Design + DSA
--Volunteer: British Heart Foundation
+- Java Programming and System Design + DSA
+- Volunteer: British Heart Foundation
 
 
 <!--
