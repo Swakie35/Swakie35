@@ -2,23 +2,29 @@
 
 Aspiring Machine Learning Engineer | CS Grad Student at University of Liverpool, UK
 
+-------------------------------------------------------------------------------------
+
 🔭 Current Interests:
 
 Machine Learning and AI
 Big Data Analytics
 Cloud Computing with AWS
+
 🌱 Currently Learning:
 
 Deep Learning with PyTorch
 Advanced Data Analysis Techniques
+
 👯 Looking to Collaborate On:
 
 Machine Learning Projects
 Data Science Challenges
+
 📫 How to reach me:
 
 Email: khaireswaraj5@gmail.com
 LinkedIn: linkedin.com/in/swaraj-khaire
+
 💻 Skills:
 
 Programming: Python, Java, SQL, JavaScript, C++
@@ -27,6 +33,7 @@ Big Data & Cloud: AWS (EC2, S3, Lambda, DynamoDB), Databricks, Snowflake, Data P
 Visualization: Matplotlib, Seaborn, Plotly, Power BI, Tableau
 Tools: Git, Jenkins, JIRA, MS Excel, Miro, Anaconda, Airflow, Oracle SQL, PostgreSQL
 Methodologies: Agile, A/B Testing, Object-Oriented Design, Deep Learning
+
 📈 Projects:
 
 Stock Forecasting using Machine Learning
