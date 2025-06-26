@@ -33,7 +33,7 @@
 - You can find them under git profile
 ---
 
-✨ **Fun Fact:** Captain: Indian State-Level Cricket Team.
+✨ **Fact:** Captain: Indian State-Level Cricket Team.
 
 ---
 
