@@ -1,48 +1,58 @@
-## Hi there 👋 I'm Swaraj Khaire
+# 👋 Hi, I'm Swaraj Khaire
 
-Aspiring Machine Learning Engineer | CS Grad Student at University of Liverpool, UK
+**Aspiring Machine Learning Engineer | CS Grad Student at University of Liverpool,UK (Sept,2025)**
 
--------------------------------------------------------------------------------------
+---
 
-🔭 Current Interests:
+🔭 **Current Interests:**  
+- Machine Learning and AI
+- Big Data Analytics
+- Cloud Computing with AWS
 
-Machine Learning and AI
-Big Data Analytics
-Cloud Computing with AWS
+🌱 **Currently Learning:**  
+- Deep Learning with PyTorch
+- Advanced Data Analysis Techniques
 
-🌱 Currently Learning:
+👯 **Looking to Collaborate On:**  
+- Machine Learning Projects
+- Data Science Challenges
 
-Deep Learning with PyTorch
-Advanced Data Analysis Techniques
+📫 **How to reach me:**  
+- Email: [khaireswaraj5@gmail.com](mailto:khaireswaraj5@gmail.com)
+- LinkedIn: [linkedin.com/in/SwarajKhaire](https://www.linkedin.com/in/swaraj-khaire)
 
-👯 Looking to Collaborate On:
+💻 **Skills:**  
+- **Programming:** Python, Java, SQL, JavaScript, C++
+- **Machine Learning:** TensorFlow, PyTorch, Scikit-learn, XGBoost, Supervised & Unsupervised Learning, Anomaly Detection, NLP
+- **Big Data & Cloud:** AWS (EC2, S3, Lambda, DynamoDB), Databricks, Snowflake, Data Pipelines
+- **Visualization:** Matplotlib, Seaborn, Plotly, Power BI, Tableau
+- **Tools:** Git, Jenkins, JIRA, MS Excel, Miro, Anaconda, Airflow, Oracle SQL, PostgreSQL
+- **Methodologies:** Agile, A/B Testing, Object-Oriented Design, Deep Learning
 
-Machine Learning Projects
-Data Science Challenges
+📈 **Projects:**
+-You can find them under git profile
+---
 
-📫 How to reach me:
+✨ **Fun Fact:** Captain: Indian State-Level Cricket Team.
 
-Email: khaireswaraj5@gmail.com
-LinkedIn: linkedin.com/in/swaraj-khaire
+---
 
-💻 Skills:
+🛠 **Certifications:**
+-Java Programming and System Design + DSA
+-Volunteer: British Heart Foundation
 
-Programming: Python, Java, SQL, JavaScript, C++
-Machine Learning: TensorFlow, PyTorch, Scikit-learn, XGBoost, Supervised & Unsupervised Learning, Anomaly Detection, NLP
-Big Data & Cloud: AWS (EC2, S3, Lambda, DynamoDB), Databricks, Snowflake, Data Pipelines
-Visualization: Matplotlib, Seaborn, Plotly, Power BI, Tableau
-Tools: Git, Jenkins, JIRA, MS Excel, Miro, Anaconda, Airflow, Oracle SQL, PostgreSQL
-Methodologies: Agile, A/B Testing, Object-Oriented Design, Deep Learning
 
-📈 Projects:
+<!--
+**RutwikW/RutwikW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Stock Forecasting using Machine Learning
-Developed a scalable XGBoost model, outperforming deep learning models by 30%, and deployed it using AWS EC2 and S3.
-Path Visualizer
-Engineered an AI-based path visualization app with deep learning for obstacle detection, achieving a 98% success rate.
+Here are some ideas to get you started:
 
-🛠 Certifications & Leadership:
-
-Java Programming and System Design + DSA
-Volunteer: British Heart Foundation
-Captain: Indian State-Level Cricket Team
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
