@@ -1,58 +1,43 @@
-# 👋 Hi, I'm Swaraj Khaire
+# Hey, I'm Swaraj 👋
 
-**Aspiring Machine Learning Engineer | CS Grad Student at University of Liverpool,UK (Sept,2025)**
+**Applied AI & Backend Engineer** · Python / Java / SQL · MSc Computer Science, University of Liverpool
 
----
+I'm a software engineer who enjoys the work between a promising prototype and a system you can actually reason about: clean APIs, dependable data pipelines, measurable ML results, useful observability and sensible failure handling.
 
-🔭 **Current Interests:**  
-- Machine Learning and AI
-- Big Data Analytics
-- Cloud Computing with AWS
+My background spans software, data and applied AI work in India and the UK, including Python/SQL workflows, identity and access management, retrieval-based systems and operational analytics. I completed my MSc in Computer Science at the University of Liverpool in 2026. Lately, I've been building more deeply around agent tooling, backend reliability and evaluation-driven ML.
 
-🌱 **Currently Learning:**  
-- Deep Learning with PyTorch
-- Advanced Data Analysis Techniques
+### What I work with
 
-👯 **Looking to Collaborate On:**  
-- Machine Learning Projects
-- Data Science Challenges
+| Area | Technologies and interests |
+| --- | --- |
+| **Backend & systems** | Python, Java, FastAPI, REST, SQL, PostgreSQL, Redis, asynchronous processing |
+| **AI & ML** | scikit-learn, gradient boosting, forecasting, NLP, retrieval, agent workflows, evaluation |
+| **Infrastructure** | AWS, Docker, GitHub Actions, CI/CD, logging and monitoring |
+| **Data** | Pandas, NumPy, SQL analytics, data modelling, pipeline design |
 
-📫 **How to reach me:**  
-- Email: [khaireswaraj5@gmail.com](mailto:khaireswaraj5@gmail.com)
-- LinkedIn: [linkedin.com/in/SwarajKhaire](https://www.linkedin.com/in/swaraj-khaire)
+### Selected engineering work
 
-💻 **Skills:**  
-- **Programming:** Python, Java, SQL, JavaScript, C++
-- **Machine Learning:** TensorFlow, PyTorch, Scikit-learn, XGBoost, Supervised & Unsupervised Learning, Anomaly Detection, NLP
-- **Big Data & Cloud:** AWS (EC2, S3, Lambda, DynamoDB), Databricks, Snowflake, Data Pipelines
-- **Visualization:** Matplotlib, Seaborn, Plotly, Power BI, Tableau
-- **Tools:** Git, Jenkins, JIRA, MS Excel, Miro, Anaconda, Airflow, Oracle SQL, PostgreSQL
-- **Methodologies:** Agile, A/B Testing, Object-Oriented Design, Deep Learning
+I use these repositories to explore specific engineering trade-offs. They are self-contained reference implementations with synthetic or demonstration data, **not claims of production deployment**.
 
-📈 **Projects:**
-- You can find them under git profile
----
+| Repository | Engineering focus |
+| --- | --- |
+| [**Switchboard**](https://github.com/Swakie35/switchboard) | Bounded read-only tool execution, evidence traces and optional LLM function calling |
+| [**ClauseLedger**](https://github.com/Swakie35/clause-ledger) | Contract evidence retrieval with citations, a FastAPI interface and audit records |
+| [**Counterflow**](https://github.com/Swakie35/counterflow) | Leakage-aware demand forecasting with time-ordered evaluation and baseline comparisons |
+| [**QueuePilot**](https://github.com/Swakie35/queuepilot) | Durable background jobs, retries, leases, idempotency and dead-letter handling |
+| [**Keyline**](https://github.com/Swakie35/keyline) | Java HTTP service for order lifecycles, optimistic locking and idempotent creation |
+| [**QueryAtlas**](https://github.com/Swakie35/queryatlas) | Executable SQL warehouse, incremental loading and analytical reporting |
 
-✨ **Fact:** Captain: Indian State-Level Cricket Team.
+**Also exploring:** [Driftwatch](https://github.com/Swakie35/driftwatch) (ML drift monitoring) · [Tracecraft](https://github.com/Swakie35/tracecraft) (concurrency and telemetry) · [TriageRank](https://github.com/Swakie35/triage-rank) (synthetic research-only risk modelling)
 
----
+### Earlier work
 
-🛠 **Certifications:**
-- Java Programming and System Design + DSA
-- Volunteer: British Heart Foundation
+My [Path-Visualizer](https://github.com/Swakie35/Path-Visualizer), [Stock-Forecasting](https://github.com/Swakie35/Stock-Forecasting) and [other repositories](https://github.com/Swakie35?tab=repositories) are part of the same learning and engineering journey. I keep the earlier work visible because it's useful to see how approaches change over time.
 
+### What I care about
 
-<!--
-**RutwikW/RutwikW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like code that explains its assumptions. I'd rather show the baseline, the failure case and the test than just a polished demo. Right now I'm particularly interested in retrieval evaluation, safe agent/tool interfaces, data-intensive backend services and practical MLOps.
 
-Here are some ideas to get you started:
+Outside engineering, cricket has been a big part of my life; I've captained at state level in India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Connect:** [LinkedIn](https://www.linkedin.com/in/swaraj-khaire/) · [GitHub repositories](https://github.com/Swakie35?tab=repositories)
